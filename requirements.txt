@@ -1,0 +1,11 @@
+Flask
+Werkzeug
+opencv-python-headless
+numpy
+pandas
+pytesseract
+spacy-transformers
+spacy
+transformers
+boto3
+tesseract
