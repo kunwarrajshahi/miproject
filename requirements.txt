@@ -9,4 +9,3 @@ spacy
 transformers
 boto3
 tesseract
-os
